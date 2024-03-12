@@ -1,0 +1,9 @@
+--2024-03-12 09:09:40--  https://raw.githubusercontent.com/Code-Institute-Org/gitpod-full-template/main/.gitpod.ymlMarch
+Resolving raw.githubusercontent.com (raw.githubusercontent.com)... 185.199.111.133, 185.199.110.133, 185.199.108.133, ...
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|185.199.111.133|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2024-03-12 09:09:40 ERROR 404: Not Found.
+
+--2024-03-12 09:09:40--  http://11/
+Resolving 11 (11)... 0.0.0.11
+Connecting to 11 (11)|0.0.0.11|:80... 
